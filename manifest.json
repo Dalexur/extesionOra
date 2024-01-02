@@ -1,0 +1,11 @@
+{
+    "name": "Mini Chat Ora.ai",
+    "version": "1.0.0",
+    "description": "Habla con un ChatBot que utiliza la tecnologia de GPT 3.5 y entrenado para brindar ayuda en materia de Diseño",
+    "manifest_version": 3,
+    "author": "Dalexur Graphic",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Mini Chat Ora.ai"
+    }
+}
